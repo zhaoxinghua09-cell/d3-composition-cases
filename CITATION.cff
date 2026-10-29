@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these composition cases, please cite them using this metadata."
+title: "D3 composition cases — eight rules, twenty-three cases, ten mutants"
+authors:
+  - family-names: Zhao
+    given-names: Xinghua
+    orcid: "https://orcid.org/0009-0001-0512-1237"
+version: v1.0.0
+date-released: "2026-10-29"
+license: Apache-2.0
+repository-code: "https://github.com/zhaoxinghua09-cell/d3-composition-cases"
+keywords:
+  - evidence composition
+  - negative controls
+  - agentic AI
+  - FG-TIDA
+abstract: "A runnable test set for the D3 composition rules proposed on FG-TIDA themes#44: for each of eight rules, a met input, a not-met input, a boundary input, and a specification-level mutant proving each boundary is actually reached. Python 3.9+ standard library only."
